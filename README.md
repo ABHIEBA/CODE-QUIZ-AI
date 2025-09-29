@@ -1,4 +1,4 @@
-🟢# CODE 1 :
+# 👉🏻CODE 1 :
 ```
 
 <!DOCTYPE html>
@@ -562,7 +562,7 @@
 
 
 
-🟢# CODE 1 :
+# 👉🏻CODE 2 :
 ```
 <!DOCTYPE html>
 <html lang="en">
